@@ -1,0 +1,26 @@
+[
+    {
+      "title": "NPower Capstone: Pawgrub",
+      "imageSrc": "projects/project.png",
+      "description": "This capstone project uses MERN to build a pet food ordering system.",
+      "skills": ["React", "Express", "Node", "MongoDB", "Stripe"],
+      "demo": "https://github.com/pearamos",
+      "source": "https://github.com/pearamos/path2tech_pet_food_capstone"
+    },
+    {
+      "title": "Weather App & OpenWeather API",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project uses React and connects to Open Weather API to display weather by zip code in an intuitive design.",
+      "skills": ["React", "API"],
+      "demo": "https://palomareactweatherapp.netlify.app",
+      "source": "https://github.com/pearamos/path2tech_React_WeatherApp"
+    },
+    {
+      "title": "Email Template Webpage",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project design showcases an interface aimed at enhancing the user's email viewing experience.",
+      "skills": ["HTML", "CSS"],
+      "demo": "https://www.example.com", 
+      "source": "https://github.com/pearamos/path2tech_CSS_assignment"
+    }
+  ]
