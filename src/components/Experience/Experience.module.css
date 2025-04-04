@@ -42,17 +42,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
+  
 }
 
 .skillImageContainer img {
   width: 75px;
+  
 }
 
 .skill p {
   font-size: 20px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-poppins);
   font-weight: 500;
 }
 
@@ -68,4 +70,5 @@
     width: 100%;
     flex-direction: row;
     justify-content: center;
+    gap: 60px;
   }}
